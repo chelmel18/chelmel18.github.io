@@ -1,0 +1,21 @@
+body{font-family: 'Karla'. sans-serif: padding: 16px}
+.container{width: 100%; 
+			display:flex; 
+			flex-direction: column; 
+			align-items: center;
+			padding: 32px;}
+.leftContainer{
+	align-items: flex-start;
+	flex-direction: row;
+}
+			
+h1{font-size: 72px}
+h2{font-size: 48px; 
+	color:grey; 
+	font-style:italic; 
+	margin:0;}
+.photo{width: 150px; 
+		height: 158px; 
+		object-fit: cover; 
+		border-radius: 50%; 
+		margin: 16px}
